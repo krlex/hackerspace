@@ -1,1 +1,2 @@
 # hackerspace
+* cena, kvadratura, adresa
