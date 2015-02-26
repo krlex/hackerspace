@@ -1,4 +1,4 @@
-Skinuto sa:
+# Linkovi
 * [Nekretnine NS Poslovni Prostori](http://www.nekretnine.rs/poslovni-objekti/poslovni-prostori/izdavanje-prodaja/izdavanje/grad/novi-sad/cena/10_350/lista/po_stranici/10/)
 * [Nekretnine NS Lokali i Skladišta](http://www.nekretnine.rs/poslovni-objekti/lokali-i-skladista/izdavanje-prodaja/izdavanje/grad/novi-sad/cena/1_350/lista/po_stranici/10/)
 * [Poslovni Prostor](http://www.nsprostor.co.rs/zakup.php)
