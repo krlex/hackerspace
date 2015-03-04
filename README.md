@@ -11,4 +11,5 @@
 * [250e, 60m, futoska 27](http://www.nekretnine.rs/poslovni-objekti/lokali-i-skladista/343508/lokal60m2/)
 
 # Izdavanje
+* [150e, 55m, Maxima Gorkog 2](http://www.nekretnine.rs/stambeni-objekti/stanovi/530146/novosadskog-sajma-prazan-55m2-150e/)
 * [10e, 50m, Somborski bulevar](http://www.nekretnine.rs/poslovni-objekti/poslovni-prostori/519018/prostor-namenjen-za-predavanja-seminare-i-radionice/)
