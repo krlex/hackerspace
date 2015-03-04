@@ -11,7 +11,7 @@
 * [250e, 60m, futoska 27](http://www.nekretnine.rs/poslovni-objekti/lokali-i-skladista/343508/lokal60m2/)
 
 # Izdavanje
-*[160e, 45m,Aleksandra Tisme 1](http://www.nekretnine.rs/stambeni-objekti/stanovi/521419/izdavanje-stana-u-centru-novog-sada/)
+* [160e, 45m,Aleksandra Tisme 1](http://www.nekretnine.rs/stambeni-objekti/stanovi/521419/izdavanje-stana-u-centru-novog-sada/) 
 * [160e, 45m, Temerinska](http://www.nekretnine.rs/stambeni-objekti/stanovi/449259/izdajem-dvosoban-prazan-stan-novi-sad-podbara/)
 * [150e, 55m, Maxima Gorkog 2](http://www.nekretnine.rs/stambeni-objekti/stanovi/530146/novosadskog-sajma-prazan-55m2-150e/)
 * [10e, 50m, Somborski bulevar](http://www.nekretnine.rs/poslovni-objekti/poslovni-prostori/519018/prostor-namenjen-za-predavanja-seminare-i-radionice/)
