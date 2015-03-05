@@ -15,3 +15,4 @@
 * [150e, 55m, Maxima Gorkog 2](http://www.nekretnine.rs/stambeni-objekti/stanovi/530146/novosadskog-sajma-prazan-55m2-150e/)
 * [10e, 50m, Somborski bulevar](http://www.nekretnine.rs/poslovni-objekti/poslovni-prostori/519018/prostor-namenjen-za-predavanja-seminare-i-radionice/)
 * [120e, 45m, Pasterova](http://www.halooglasi.com/nekretnine/izdavanje/stan/izdaje-se-2-0-prazan-stan-detelinara-novi-sad.o-1282026.92.html)
+* [150e, 58m, Karadjordjeva](http://www.halooglasi.com/nekretnine/izdavanje/stan/polunamesten-dvosoban-stan-u-blizini-centra-grada.o-1279998.92.html) -agencija
