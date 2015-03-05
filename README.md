@@ -2,6 +2,7 @@
 * [Nekretnine NS Poslovni Prostori](http://www.nekretnine.rs/poslovni-objekti/poslovni-prostori/izdavanje-prodaja/izdavanje/grad/novi-sad/cena/10_350/lista/po_stranici/10/)
 * [Nekretnine NS Lokali i Skladišta](http://www.nekretnine.rs/poslovni-objekti/lokali-i-skladista/izdavanje-prodaja/izdavanje/grad/novi-sad/cena/1_350/lista/po_stranici/10/)
 * [Poslovni Prostor](http://www.nsprostor.co.rs/zakup.php)
+* [Halo oglasi](http://www.halooglasi.com/nekretnine/stambeni-prostor/pretraga.57.html?grupa=Stambeni+prostor&valid=true&rubrika=13&location=Novi+Sad&price=&area=40&jedinica_mere=a&rooms=2.0)
 
 # Zakup
 * ~~[80e, 80m, Gogoljeva 17](http://www.nekretnine.rs/poslovni-objekti/lokali-i-skladista/403383/skloniste/)~~
@@ -13,3 +14,4 @@
 * [160e, 45m, Temerinska](http://www.nekretnine.rs/stambeni-objekti/stanovi/449259/izdajem-dvosoban-prazan-stan-novi-sad-podbara/)
 * [150e, 55m, Maxima Gorkog 2](http://www.nekretnine.rs/stambeni-objekti/stanovi/530146/novosadskog-sajma-prazan-55m2-150e/)
 * [10e, 50m, Somborski bulevar](http://www.nekretnine.rs/poslovni-objekti/poslovni-prostori/519018/prostor-namenjen-za-predavanja-seminare-i-radionice/)
+* [120e, 45m, Pasterova](http://www.halooglasi.com/nekretnine/izdavanje/stan/izdaje-se-2-0-prazan-stan-detelinara-novi-sad.o-1282026.92.html)
