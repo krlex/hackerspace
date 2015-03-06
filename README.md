@@ -9,7 +9,7 @@
 * ~~[80e, 80m, Gogoljeva 17](http://www.nekretnine.rs/poslovni-objekti/lokali-i-skladista/403383/skloniste/)~~
 * ~~[120e, 29m, Ilije Ognjanovića 8](http://www.nekretnine.rs/poslovni-objekti/poslovni-prostori/441678/poslovni-prostor/)~~
 * [120e, 45m, Pasterova](http://www.halooglasi.com/nekretnine/izdavanje/stan/izdaje-se-2-0-prazan-stan-detelinara-novi-sad.o-1282026.92.html)
-* [150e, 21m, Svetozara Miletica](http://www.nekretnine.rs/poslovni-objekti/poslovni-prostori/518388/kancelarija-svetozara-miletica-novi-sad/)
+* ~~[150e, 21m, Svetozara Miletica](http://www.nekretnine.rs/poslovni-objekti/poslovni-prostori/518388/kancelarija-svetozara-miletica-novi-sad/)~~
 * [150e, 35m, Bulevar](http://www.nadjidom.com/sr/details/196676/Novi+Sad-Bulevar+Oslobodjenja-Izdavanje-Poslovni+prostor.html)
 * [150e, 58m, Karadjordjeva](http://www.halooglasi.com/nekretnine/izdavanje/stan/polunamesten-dvosoban-stan-u-blizini-centra-grada.o-1279998.92.html) - agencija
 * [160e, 45m, Temerinska](http://www.nekretnine.rs/stambeni-objekti/stanovi/449259/izdajem-dvosoban-prazan-stan-novi-sad-podbara/)
