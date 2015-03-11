@@ -15,6 +15,6 @@
 * ~~[160e, 45m, Temerinska](http://www.nekretnine.rs/stambeni-objekti/stanovi/449259/izdajem-dvosoban-prazan-stan-novi-sad-podbara/)~~
 * ~~[160e, 45m, Aleksandra Tisme 1](http://www.nekretnine.rs/stambeni-objekti/stanovi/521419/izdavanje-stana-u-centru-novog-sada/)~~
 * ~~[150e, 55m, Maxima Gorkog 2](http://www.nekretnine.rs/stambeni-objekti/stanovi/530146/novosadskog-sajma-prazan-55m2-150e/)~~
-* [170e, 67m, bul. Oslobođenja 14] (http://www.halooglasi.com/nekretnine/izdavanje/stan/prazan-dvosoban-renoviran-stan.o-1283311.92.html)
+* **[170e, 67m, bul. Oslobođenja 14] (http://www.halooglasi.com/nekretnine/izdavanje/stan/prazan-dvosoban-renoviran-stan.o-1283311.92.html)**
 * [200e, 54m, Nepoznata Adresa] (http://www.halooglasi.com/nekretnine/izdavanje/stan/stan-centar-novi-sad.o-1083625.92.html) - agencija
 * ~~[250e, 60m, futoska 27](http://www.nekretnine.rs/poslovni-objekti/lokali-i-skladista/343508/lokal60m2/)~~
